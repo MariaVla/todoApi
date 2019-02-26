@@ -1,15 +1,15 @@
 # todoApi
 
-  A simple to do app running in localhost:3000
+    A simple to do app running in localhost:3000
 
 ## Prerequisites
 
-  Node v8.11.4
+    Node v8.11.4
 
 ## Installing
 
-  npm install
+    npm install
 
 ## Running
 
-  node index.js
+    node index.js
