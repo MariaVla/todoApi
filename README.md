@@ -1,6 +1,6 @@
-# todoApi
+# todoApi [DEPRECATED]
 
-    A simple to do app running in localhost:3000
+    TodoApp made with Express. Store todo in Mongo. JavaScript/jQuery for the front-end.
 
 ## Prerequisites
 
